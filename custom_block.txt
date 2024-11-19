@@ -2,6 +2,7 @@
 ads-pres.channel4.com
 cdn.http.anno.channel4.com
 cdn.ss.anno.channel4.com
+c4ads.2cnt.net
 p.videologygroup.com
 securecdn.videologygroup.com
 toots-a.akamaihd.net
