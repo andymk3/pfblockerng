@@ -16,3 +16,9 @@ tom.itv.com
 c4smarttv.2cnt.net
 cf.jos.c4assets.com
 ak-jos-c4assets-com.akamaized.net
+recommendations.prd.user.itv.com
+ar.prd.content.itv.com
+cpt.itv.com
+api.lab.eu.amplitude.com
+822d428ad6a0a99e585ae79b04746ccfc541cad1.cws.conviva.com
+europe-west1-itv-ds-prd.cloudfunctions.net 
